@@ -1,1 +1,1 @@
-some bascic python projects
+some bascic python program
